@@ -47,18 +47,18 @@ In other words, the company wants to understand the driving factors (or driver v
 ## Technologies Used
 
 Python Libraries:
-    -pandas
-    -numpy
-    -seaborn
-    -matplotlib.pyplot
+* pandas
+* numpy
+* seaborn
+* matplotlib.pyplot
 
 
 ## Analysis
 
 The analysis covers the following aspects:
-- Understanding of the given Data
-- Data Preparation(Cleaning, Standardisation, treating outliers)
-- Data Analysis(Univariate and Bivariate analysis)
+* Understanding of the given Data
+* Data Preparation(Cleaning, Standardisation, treating outliers)
+* Data Analysis(Univariate and Bivariate analysis)
 
 
 
