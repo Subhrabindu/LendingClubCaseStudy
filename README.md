@@ -10,7 +10,7 @@ This repository contains a case study on loan data analysis. The case study incl
 * Analysis
 * Visualizations 
 * Conclusions
-* Acknowledgements
+  
 
 
 ## General Information
@@ -43,6 +43,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
+
 ## Technologies Used
 
 Python Libraries:
@@ -50,7 +51,7 @@ Python Libraries:
     -numpy
     -seaborn
     -matplotlib.pyplot
-    -warnings
+
 
 ## Analysis
 
@@ -65,23 +66,29 @@ The analysis covers the following aspects:
 
 The visualizations include count plots, box plots, bar plots and more to illustrate the relationships between different loan attributes.
 
+
 ## Conclusion
 
-The analysis provides insights into the factors that may influence the loan status, such as 
-
--Higher Loan Amount 
--Higher interest rate 
--Loan Purpose ( Small Business, Renewable Energy, Education)
--Higher Revolve Utilization rate 
--Bad Loan Grades (F, G)
--Lower Annual Income 
--Higher Debt To Income ratio 
--Higher term (60 months) tend to default more than others
--Applicants have mortgage are associated with a higher number of charged-off loans
+In general, from the given data the applicants with higher loan amount, higher interest rate and higher 
+instalment are more likely to default. From our analysis we have identified strong indicators that contributes 
+for the loan charge off, by implementing the recommendation we can reduce the risk of default
 
 
-## References
+## Authors:
 
+1. Antony John Sundar Aruldos
+2. Subhrabindu Khuntia
+
+    
+## Reference Material
+
+1. UpGrad Material – Live session and recordings
+2. Seaborn Libraries 
+    https://seaborn.pydata.org/tutorial/categorical.html
+    https://seaborn.pydata.org/tutorial/distributions.html
+3. Lending Club website
+    https://www.lendingclub.com/personal-loan/rates-fees
+    https://www.lendingclub.com/resource-center
 
 
 
